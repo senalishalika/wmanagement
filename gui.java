@@ -10,5 +10,7 @@ class gui{
 		int sum=num1+num2;
 		
 		JOptionPane.showMessageDialog(null, "The answer is "+sum,"Display sum", JOptionPane.PLAIN_MESSAGE);
+		
+		System.out.println("Hello World");
 	}
 }
