@@ -12,5 +12,6 @@ class gui{
 		JOptionPane.showMessageDialog(null, "The answer is "+sum,"Display sum", JOptionPane.PLAIN_MESSAGE);
 		
 		System.out.println("Hello World");
+		String oo="kk";
 	}
 }
